@@ -1,2 +1,2 @@
-# python-projects
-Projetos em Python por Joaquim Prieto
+# Ballot box
+Eletronic ballot box simulator  developed in Python by Joaquim Prieto
